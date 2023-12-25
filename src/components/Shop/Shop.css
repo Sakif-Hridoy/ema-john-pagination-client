@@ -31,3 +31,11 @@
     margin-bottom: 40px;
     /* overflow: hidden; */
 }
+
+.pagination button{
+    margin-right: 10px;
+}
+
+.pagination .selected {
+    background-color:orange;
+}
